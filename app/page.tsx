@@ -27,7 +27,7 @@ export default function HomePage() {
 
   return (
     <>
-      <div className="w-8/12 border border-gray-500 mx-auto mt-20 mb-10 p-20
+      <div className="w-6/12 border border-gray-500 mx-auto mt-20 mb-10 p-20
                       flex flex-col items-center rounded-2xl shadow-xl" >
         <Image src={calculator} alt="calcultor" width={200} />
 
